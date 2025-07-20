@@ -2,7 +2,7 @@ name = "alma"
 compatibility_date = "2025-07-20"
 
 kv_namespaces = [
-  { binding = "KV", id = "your_KV_ID" }
+  { binding = "workers-almaviva-state", id = "9c13aaabf8a04a85bbd05ea645a68348" }
 ]
 
 
