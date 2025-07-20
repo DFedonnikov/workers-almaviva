@@ -1,9 +1,9 @@
 name = "alma"
 compatibility_date = "2025-07-20"
+main = "src/worker.ts"
 
 kv_namespaces = [
   { binding = "KV", id = "d54cf5c93a39471797dad26bfb29fd56" }
 ]
-
 
 [vars]
